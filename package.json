@@ -1,6 +1,6 @@
 {
   "name": "neon-one",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "One-Stop-Solution for UI and Autogenerate Form Craetor",
   "main": "build/index.js",
   "scripts": {
